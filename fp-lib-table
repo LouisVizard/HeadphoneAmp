@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "headphone_amp_footprints")(type "KiCad")(uri "${KIPRJMOD}/headphone_amp_footprints.pretty")(options "")(descr ""))
+)
